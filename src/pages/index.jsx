@@ -121,7 +121,7 @@ export default function Home() {
 
           <div className={styles.aboutRightContent} data-aos="fade-up">
             <h3>
-              <strong2>Referência em Qualidade de Materiais Elétricos em</strong2> <strong>Lençóis Paulista e Região.</strong>
+              <strong2>Referência em qualidade em assitência técnica em geladeiras, maquinas de lavar de todas as marcas e ar condicionado em </strong2> <strong>Lençóis Paulista e Região.</strong>
             </h3>
             <p>
             
