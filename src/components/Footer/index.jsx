@@ -23,7 +23,7 @@ export const Footer = ({ children, link = "/" }) => {
             <ul>
               <li> (14) 99724-5761 </li>
               <li> (14) 3263 3774</li>
-              <li>Rua Luiz Baptistella, 303, Lençóis Paulista, SP</li>
+              <li>Rua Luiz Baptistella, 303</li>
               <li>Lençóis Paulista - SP</li>
               <li className={styles.social}>
                 <Link href="/">
