@@ -19,14 +19,14 @@ export const Footer = ({ children, link = "/" }) => {
           </Link>
 
           <div>
-            <h3>Eletro Santa Clara - Loja 1</h3>
+            <h3>Eder Refrigeração</h3>
             <ul>
-              <li>(14) 3269-1057</li>
-              <li>vendas@eletrosantaclara.com.br</li>
-              <li>Av. Brasil, 583- Centro</li>
+              <li> (14) 99724-5761 </li>
+              <li> (14) 3263 3774</li>
+              <li>Rua Luiz Baptistella, 303, Lençóis Paulista, SP</li>
               <li>Lençóis Paulista - SP</li>
               <li className={styles.social}>
-                <Link href="https://www.instagram.com/eletrosantaclara">
+                <Link href="/">
                   <a target="_blank">
                     <Image
                       src="/icons/instaFooter.svg"
@@ -36,7 +36,7 @@ export const Footer = ({ children, link = "/" }) => {
                     />
                   </a>
                 </Link>
-                <Link href="https://www.facebook.com/eletrosantaclara/">
+                <Link href="https://www.facebook.com/profile.php?id=100006731656923">
                   <a target="_blank">
                     <Image
                       src="/icons/faceFooter.svg"
@@ -61,9 +61,9 @@ export const Footer = ({ children, link = "/" }) => {
           </div>
 
           <div>
-            <h3>Eletro Santa Clara - loja 2</h3>
-            <p> Rua Pastor Natalino Paulino, nº. 260, Vila Santa Cecília</p>
-            <p>Fone 14 3269.1717 - 14 98118.8248</p>
+            <h3> </h3>
+            <p> </p>
+            <p> </p>
           </div>
 
           <div>

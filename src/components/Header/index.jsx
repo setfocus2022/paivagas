@@ -62,16 +62,16 @@ export const Header = () => {
             <Link href="/">
               <a>Home</a>
             </Link>
-            <Link href="/tratamentos">
+            <Link href="/">
               <a>Serviços</a>
             </Link>
-            <Link href="/clinica">
+            <Link href="/">
               <a>A Empresa</a>
             </Link>
-            <Link href="/doutora">
+            <Link href="/">
               <a>Localização</a>
             </Link>
-            <Link href="/contato">
+            <Link href="/">
               <a>Contato</a>
             </Link>
           </nav>
@@ -80,7 +80,7 @@ export const Header = () => {
             <Button
               dark
               onClick={agendarConsulta}
-              link="https://wa.me/5514981189197"
+              link="https://wa.me/5514997245761"
             >
                <img src="/icons/whatsIcon.svg" alt="whatsapp" />
               Fale Conosco
@@ -102,27 +102,28 @@ export const Header = () => {
               </Link>
             </li>
             <li onClick={closeMenu}>
-              <Link href="/tratamentos">
-                <a>Serviços</a>
+              <Link href="/">
+                <a></a>
               </Link>
             </li>
             <li onClick={closeMenu}>
-              <Link href="/clinica">
-                <a>A Empresa</a>
+              <Link href="/">
+                <a></a>
               </Link>
             </li>
             <li onClick={closeMenu}>
-              <Link href="/doutora">
-                <a>Localização</a>
+              <Link href="/">
+                <a></a>
               </Link>
             </li>
             <li onClick={closeMenu}>
-              <Link href="/contato">
-                <a>Contato</a>
+              <Link href="/">
+                <a></a>
               </Link>
             </li>
+            
             <li onClick={agendarConsultaMenu}>
-              <Link href="https://wa.me/551981189197">
+              <Link href="https://wa.me/5514997245761">
                 <a target="_blank">Fale Conosco</a>
               </Link>
             </li>

@@ -32,16 +32,16 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Home | Eletro Santa Clara</title>
+        <title>Home |Eder Refrigeração</title>
         <meta
           name="description"
-          content="Eletro Santa Clara - Referência em Qualidade e Ótimos Preços em Lençóis Pta e Região"
+          content="Eder Refrigeração - Referência em Qualidade e Ótimos Preços em Lençóis Pta e Região"
         />
         <meta
           name="keywords"
-          content="Dentista, Clínica Odontológica, Dentista em Lençóis Paulista, Harmonização Facial, Clareamento Dental, Clínica Odontológica em Lençóis Paulista"
+          content=""
         />
-        <meta name="author" content="Santa Clara" />
+        <meta name="author" content="Eder Refrigeração" />
 
         <script async src="//static.zotabox.com/4/c/4c5c05a95fe476cec4705911aa442f5d/widgets.js"></script>
       </Head>
@@ -74,7 +74,7 @@ export default function Home() {
             >
               <Button
                 onClick={agendarConsulta}
-                link="https://wa.me/5514981189197"
+                link="https://wa.me/551414997245761"
               >
                 <img src="/icons/whatsIcon.svg" alt="whatsapp" />
                 Fale Conosco
@@ -126,7 +126,7 @@ export default function Home() {
             <p>
             
             </p>
-            <Button link="/clinica" target="_self">
+            <Button link="/" target="_self">
               Ver Mais
             </Button>
           </div>
