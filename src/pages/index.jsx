@@ -32,7 +32,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Home |Eder Refrigeração</title>
+        <title>Home | Eder Refrigeração</title>
         <meta
           name="description"
           content="Eder Refrigeração - Referência em Qualidade e Ótimos Preços em Lençóis Pta e Região"
@@ -43,7 +43,7 @@ export default function Home() {
         />
         <meta name="author" content="Eder Refrigeração" />
 
-        <script async src="//static.zotabox.com/4/c/4c5c05a95fe476cec4705911aa442f5d/widgets.js"></script>
+        
       </Head>
 
       {/* <div className={styles.schedule}>
@@ -62,7 +62,7 @@ export default function Home() {
 
           
             <p data-aos="fade-up" data-aos-delay="200">
-            Nossa missão é entregar qualidade e preço baixo para proporcionar
+            Nossa missão é entregar qualidade e preço justo para proporcionar
               máxima satisfação aos nossos Clientes.
             </p>
            
