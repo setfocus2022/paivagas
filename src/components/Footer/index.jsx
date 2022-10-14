@@ -75,7 +75,7 @@ export const Footer = ({ children, link = "/" }) => {
       </footer>
 
       <p className={`${styles.copy}`}>
-        2022 © Eletro Santa Clara. Todos os direitos reservados.
+        2022 © Eder Refrigeração. Todos os direitos reservados.
       </p>
     </>
   );
