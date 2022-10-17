@@ -35,7 +35,7 @@ export default function Home() {
         <title>Home | Minetto Refrigeração</title>
         <meta
           name="description"
-          content="Minetto Climatizacao - Referência em Qualidade e Ótimos Preços em Lençóis Pta e Região"
+          content="Minetto Climatização -Serviço de aquecimento, ventilação e ar condicionado"
         />
         <meta
           name="keywords"
@@ -57,7 +57,7 @@ export default function Home() {
         <div className={`mainContainer ${styles.heroWrap}`}>
           <section className={styles.leftContent}>
             <h1 className="title" data-aos="fade-up">
-              Atendimento personalizado faz toda a <strong>diferença</strong>
+            Serviço de aquecimento, ventilação e ar condicionado. Atendimento personalizado faz toda a <strong>diferença</strong>
             </h1>
 
           
@@ -112,7 +112,7 @@ export default function Home() {
         <div className={styles.imgAbout} data-aos="fade-up">
             <MyImage
               src="/images/fachada.jpg"
-              alt="Clientes sendo atendido"
+              alt="Clientes sendo atendidos"
               width="540"
               height="500"
               left
