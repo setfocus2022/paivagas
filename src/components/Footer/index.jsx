@@ -21,10 +21,11 @@ export const Footer = ({ children, link = "/" }) => {
           <div>
             <h3>Eder Refrigeração</h3>
             <ul>
-              <li> (14) 99724-5761 </li>
-              <li> (14) 3263 3774</li>
-              <li>Rua Luiz Baptistella, 303</li>
+              <li> (14) 99648-5764 </li>
+              <li> (14) 3269-6999</li>
+              <li>Avenida ubirama, 177</li>
               <li>Lençóis Paulista - SP</li>
+              <li>comercial@minettorefrigeracao.com.br</li>
               <li className={styles.social}>
                 <Link href="/">
                   <a target="_blank">
@@ -36,7 +37,7 @@ export const Footer = ({ children, link = "/" }) => {
                     />
                   </a>
                 </Link>
-                <Link href="https://www.facebook.com/people/Eder-Refrigera%C3%A7%C3%A3o/100064042050412/">
+                <Link href="https://www.facebook.com/minettoclimatizacao.oficial/">
                   <a target="_blank">
                     <Image
                       src="/icons/faceFooter.svg"
@@ -75,7 +76,7 @@ export const Footer = ({ children, link = "/" }) => {
       </footer>
 
       <p className={`${styles.copy}`}>
-        2022 © Eder Refrigeração. Todos os direitos reservados.
+        2022 © Minetto Climatização. Todos os direitos reservados.
       </p>
     </>
   );
