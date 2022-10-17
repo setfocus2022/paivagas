@@ -57,13 +57,12 @@ export default function Home() {
         <div className={`mainContainer ${styles.heroWrap}`}>
           <section className={styles.leftContent}>
             <h1 className="title" data-aos="fade-up">
-            Serviço de aquecimento, ventilação e ar condicionado. Atendimento personalizado faz toda a <strong>diferença</strong>
+             Atendimento personalizado faz toda a <strong>diferença</strong>
             </h1>
 
           
             <p data-aos="fade-up" data-aos-delay="200">
-            Nossa missão é entregar qualidade e preço justo para proporcionar
-              máxima satisfação aos nossos Clientes.
+            Serviço de aquecimento, ventilação e ar condicionado.
             </p>
            
   
