@@ -19,7 +19,7 @@ export const Footer = ({ children, link = "/" }) => {
           </Link>
 
           <div>
-            <h3>Eder Refrigeração</h3>
+            <h3>Minetto Climatização - </h3>
             <ul>
               <li> (14) 99648-5764 </li>
               <li> (14) 3269-6999</li>
