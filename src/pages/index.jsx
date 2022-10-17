@@ -32,7 +32,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Home | Minetto Refrigeração</title>
+        <title>Home | Minetto Climatização</title>
         <meta
           name="description"
           content="Minetto Climatização -Serviço de aquecimento, ventilação e ar condicionado"
@@ -74,7 +74,7 @@ export default function Home() {
             >
               <Button
                 onClick={agendarConsulta}
-                link="https://wa.me/5514997245761"
+                link="https://wa.me/5514996485764"
               >
                 <img src="/icons/whatsIcon.svg" alt="whatsapp" />
                 Fale Conosco
