@@ -32,16 +32,16 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Home | Eder Refrigeração</title>
+        <title>Home | Minetto Refrigeração</title>
         <meta
           name="description"
-          content="Eder Refrigeração - Referência em Qualidade e Ótimos Preços em Lençóis Pta e Região"
+          content="Minetto Climatizacao - Referência em Qualidade e Ótimos Preços em Lençóis Pta e Região"
         />
         <meta
           name="keywords"
           content=""
         />
-        <meta name="author" content="Eder Refrigeração" />
+        <meta name="author" content="Minetto Climatizacao" />
 
         
       </Head>
@@ -91,8 +91,8 @@ export default function Home() {
             data-aos-delay="400"
           >
             <MyImage
-              src="/images/heroLais.jpg"
-              alt="Paciente Sorrindo na clínica"
+              src="/images/hero.jpg"
+              alt="Visão interna da loja"
               width="440"
               height="510"
             />
@@ -121,7 +121,7 @@ export default function Home() {
 
           <div className={styles.aboutRightContent} data-aos="fade-up">
             <h3>
-              <strong2>Referência em qualidade. Assistência técnica de</strong2> <strong>geladeiras, maquinas de lavar de todas as marcas e ar condicionado.</strong>
+              <strong2>Referência em qualidade. Assistência técnica e equipamentos de </strong2> <strong> ultima geração.</strong>
             </h3>
             <p>
             
