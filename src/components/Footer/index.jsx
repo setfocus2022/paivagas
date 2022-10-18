@@ -69,8 +69,8 @@ export const Footer = ({ children, link = "/" }) => {
 
           <div>
             <h3>Atendimento</h3>
-            <p>Seg - Sex: 08:00 - 18:00</p>
-            <p>Sáb: até 18h - Dom: Até as 12h</p>
+            <p>Seg - Sex: 08:00 - 19:00</p>
+            <p>Dom: 08:00 - as 12h</p>
           </div>
         </div>
       </footer>
