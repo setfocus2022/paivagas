@@ -26,7 +26,7 @@ export const Header = () => {
     gtag.event({
       action: "agendar_consulta_cabeçalho",
       category: "marcar_consulta_whatsapp_cabeçalho",
-      label: "Fale Conosco",
+      label: "Faça seu pedido",
       value: "Fale Conosco",
     });
   }
@@ -80,7 +80,7 @@ export const Header = () => {
             <Button
               dark
               onClick={agendarConsulta}
-              link="https://wa.me/5514996485764"
+              link="https://wa.me/5514996213261"
             >
                <img src="/icons/whatsIcon.svg" alt="whatsapp" />
               Fale Conosco
@@ -123,7 +123,7 @@ export const Header = () => {
             </li>
             
             <li onClick={agendarConsultaMenu}>
-              <Link href="https://wa.me/5514996485764">
+              <Link href="https://wa.me/5514996213261">
                 <a target="_blank">Fale Conosco</a>
               </Link>
             </li>

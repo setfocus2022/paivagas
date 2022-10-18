@@ -70,13 +70,13 @@ export const Footer = ({ children, link = "/" }) => {
           <div>
             <h3>Atendimento</h3>
             <p>Seg - Sex: 08:00 - 18:00</p>
-            <p>Sáb: até 12h - Dom: Fechado</p>
+            <p>Sáb: até 18h - Dom: Até as 12h</p>
           </div>
         </div>
       </footer>
 
       <p className={`${styles.copy}`}>
-        2022 © Minetto Climatização. Todos os direitos reservados.
+        2022 © Paiva Gás. Todos os direitos reservados.
       </p>
     </>
   );

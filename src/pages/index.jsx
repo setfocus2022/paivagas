@@ -73,7 +73,7 @@ export default function Home() {
             >
               <Button
                 onClick={agendarConsulta}
-                link="https://wa.me/5514996485764"
+                link="https://wa.me/5514996213261"
               >
                 <img src="/icons/whatsIcon.svg" alt="whatsapp" />
                 Fale Conosco
@@ -120,7 +120,7 @@ export default function Home() {
 
           <div className={styles.aboutRightContent} data-aos="fade-up">
             <h3>
-              <strong2>Referência em qualidade. Assistência técnica e equipamentos de </strong2> <strong> ultima geração.</strong>
+              <strong2>Se o gás acabou, me chama que</strong2> <strong> eu vou.</strong>
             </h3>
             <p>
             
