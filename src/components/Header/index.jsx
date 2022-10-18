@@ -16,7 +16,7 @@ export const Header = () => {
     gtag.event({
       action: "agendar_consulta_cabeçalho",
       category: "marcar_consulta_whatsapp_cabeçalho",
-      label: "Agendar Consulta pelo Whatsapp",
+      label: "Faça seu pedido",
       value: "Marcar consulta",
     });
   }
