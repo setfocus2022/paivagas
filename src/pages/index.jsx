@@ -32,16 +32,16 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Home | Minetto Climatização</title>
+        <title>Home | Paiva Gás - A chama que rende mais</title>
         <meta
           name="description"
-          content="Minetto Climatização -Serviço de aquecimento, ventilação e ar condicionado"
+          content="Paiva Gás - A chama que rende mais"
         />
         <meta
           name="keywords"
-          content=""
+          content="gás, gas de cozinha, entrega de gás "
         />
-        <meta name="author" content="Minetto Climatizacao" />
+        <meta name="author" content="Paiva Gás" />
 
         
       </Head>
