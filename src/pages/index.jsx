@@ -24,7 +24,7 @@ export default function Home() {
     gtag.event({
       action: "agendar_consulta",
       category: "marcar_consulta_whatsapp",
-      label: "Faça m Orçamento",
+      label: "Faça seu pedido",
       value: "Orçamento",
     });
   }
