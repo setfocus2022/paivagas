@@ -19,13 +19,13 @@ export const Footer = ({ children, link = "/" }) => {
           </Link>
 
           <div>
-            <h3>Minetto Climatização</h3>
+            <h3>Paiva Gás</h3>
             <ul>
-              <li> (14) 99648-5764 </li>
-              <li> (14) 3269-6999</li>
-              <li>Avenida ubirama, 177</li>
+              <li> (14) 99621-3261 </li>
+              <li> (14) 3264-1140</li>
+              <li>Rua Florencio Jacomo Paccola, 65 - Jd Sta Terezinha</li>
               <li>Lençóis Paulista - SP</li>
-              <li>comercial@minettorefrigeracao.com.br</li>
+              <li></li>
               <li className={styles.social}>
                 <Link href="/">
                   <a target="_blank">
@@ -37,7 +37,7 @@ export const Footer = ({ children, link = "/" }) => {
                     />
                   </a>
                 </Link>
-                <Link href="https://www.facebook.com/minettoclimatizacao.oficial/">
+                <Link href="https://www.facebook.com/paiva.gas.370">
                   <a target="_blank">
                     <Image
                       src="/icons/faceFooter.svg"
