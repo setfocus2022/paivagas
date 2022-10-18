@@ -57,7 +57,7 @@ export default function Home() {
         <div className={`mainContainer ${styles.heroWrap}`}>
           <section className={styles.leftContent}>
             <h1 className="title" data-aos="fade-up">
-             A melhor qualidade você só encontra <strong>aqui</strong>
+             O melhor preço e qualidade você só encontra <strong>aqui</strong>
             </h1>
 
           
