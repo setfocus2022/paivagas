@@ -32,14 +32,14 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Home | Paiva Gás - A chama que rende mais</title>
+        <title>Home | Paiva Gás - A chama que rende mais - Fale conosco - Lençóis Paulista</title>
         <meta
           name="description"
           content="Paiva Gás - A chama que rende mais"
         />
         <meta
           name="keywords"
-          content="gás, gas de cozinha, entrega de gás "
+          content="gás, gas de cozinha, entrega de gás, disk entrega gás"
         />
         <meta name="author" content="Paiva Gás" />
 
